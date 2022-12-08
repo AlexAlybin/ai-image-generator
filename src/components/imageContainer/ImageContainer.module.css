@@ -1,0 +1,19 @@
+.imageContainer {
+    width: 100%;
+    min-height: 300px;
+    height: fit-content;
+    padding: 30px 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #607d8b;
+}
+
+.image {
+    margin-right: 10px;
+    border-radius: 4px;
+    max-width: 300px;
+    max-height: 300px;
+    object-fit: contain;
+}

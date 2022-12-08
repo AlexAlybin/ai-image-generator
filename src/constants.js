@@ -1,0 +1,1 @@
+export const API_PREFIX = "https://image-generator-api.onrender.com"
